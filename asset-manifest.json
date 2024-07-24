@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Patrones-de-Render-y-Composicion.git/static/css/main.f2a2753e.css",
+    "main.js": "/Patrones-de-Render-y-Composicion.git/static/js/main.38537da9.js",
+    "index.html": "/Patrones-de-Render-y-Composicion.git/index.html",
+    "static/media/delete.svg": "/Patrones-de-Render-y-Composicion.git/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/Patrones-de-Render-y-Composicion.git/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.f2a2753e.css.map": "/Patrones-de-Render-y-Composicion.git/static/css/main.f2a2753e.css.map",
+    "main.38537da9.js.map": "/Patrones-de-Render-y-Composicion.git/static/js/main.38537da9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2a2753e.css",
+    "static/js/main.38537da9.js"
+  ]
+}
