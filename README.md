@@ -10,4 +10,4 @@ Este repositorio contiene un proyecto de aplicación web construido con React.js
 
 ## Visualización del Proyecto
 
-Puedes visualizar el proyecto en el siguiente enlace: [Visualizar la Aplicación](https://enlace-a-tu-proyecto.com).
+Puedes visualizar el proyecto en el siguiente enlace: https://alfredomaramburo.github.io/Patrones-de-Render-y-Composicion/
